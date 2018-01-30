@@ -1,0 +1,52 @@
+h1 {
+	color: #1D006C;
+	font-size: 27px
+}
+h2 {color: #4014B9;
+	font-size: 17px
+}
+
+
+.first-paragraph {
+	background-color: #BCC9CF;
+	text-align: center;
+	margin: 75px;
+	padding: 75px;
+	border: solid 10px #687B85;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+body {
+	background-color: #DCE0E2;
+}
+h1 {font-family: 'Stardos Stencil', cursive;}
+
+
+
+}
+#logo { 
+	width: 700px;
+}
+.network {
+	width: 200px;
+}
+
+#abstract{
+	font-weight: bold;
+}
+.shadow {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.icon-network { 
+	font-size: 60px
+}
+.img-circle {
+	width: 240px
+}
+.list-inline
+
+#banner {
+	background-image: url('images/banner3.jpeg') 
+	background-size: cover;
+	height: 400px;
+}
